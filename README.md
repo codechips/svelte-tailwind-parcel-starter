@@ -7,11 +7,13 @@ The starter pack also includes
 [tailwindcss-font-inter](https://github.com/semencov/tailwindcss-font-inter)
 plugin for Tailwind plus Prettier and Eslint plugins with opinionated settings.
 
+This is the code for my article [Svelte + Tailwind + Parcel = Awesome!](https://codechips.me/svelte-tailwind-parcel-awesome/).
+
 ## Getting started
 
 ```
 # create new project
-$ npx degit iljoo/svelte-tailwind-parcel-starter facebook-killer
+$ npx degit codechips/svelte-tailwind-parcel-starter facebook-killer
 $ cd facebook-killer
 
 # install required packages
@@ -34,6 +36,6 @@ I take no responsibility if you get paid less because you have become more
 productive with these awesome tools and suddenly started getting things done
 faster.
 
-## Questions?
+## There is more!
 
-Find me on Twitter - [@ilia_mikhailov](https://twitter.com/ilia_mikhailov).
+For more interesting stuff like this follow me on [Twitter](https://twitter.com/codechips) or check out my blog https://codechips.me
