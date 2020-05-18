@@ -15,7 +15,7 @@
   ],
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.0",
-    "autoprefixer": "^9.7.3",
+    "autoprefixer": "^9.8.0",
     "eslint-plugin-svelte3": "^2.7.3",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-svelte": "^4.0.5",
