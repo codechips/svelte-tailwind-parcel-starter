@@ -4999,10 +4999,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte@^3.16.7:
-  version "3.20.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.20.1.tgz#8417fcd883a2f534b642a0737368272e651cf3ac"
-  integrity sha512-m/dw52BZf+p6KYnyKLErIcGalu4pwJrQbUM7VZriRw6ZlJj1qMAZsLcIWzEB3I0hhdJwkKb7LrrvUIeqmbO92Q==
+svelte@^3.23.1:
+  version "3.23.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.23.1.tgz#b201b9ebc25034cb23562ba284efa3e06f357b7b"
+  integrity sha512-HTKVSDHcn4ztxRl3g425pwihePXkCvn4B2gO5Y3n3GHzHZWxYM9T+l/LHs7HjJjcI7Xl7/ujnfA3S45pz0qXIg==
 
 svgo@^1.0.0, svgo@^1.3.2:
   version "1.3.2"
