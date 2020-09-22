@@ -21,7 +21,7 @@
     "parcel-plugin-svelte": "^4.0.5",
     "prettier": "^2.0.2",
     "prettier-plugin-svelte": "^0.7.0",
-    "svelte": "^3.16.7",
+    "svelte": "^3.26.0",
     "tailwindcss": "^1.1.4",
     "tailwindcss-font-inter": "^1.0.7"
   }
