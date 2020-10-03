@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Svelte with Tailwind and Parcel",
   "main": "./src/main.js",
-  "author": "iljoo",
+  "author": "codechips",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -14,15 +14,15 @@
     "last 1 chrome versions"
   ],
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.1.0",
-    "autoprefixer": "^9.7.3",
     "eslint-plugin-svelte3": "^2.7.3",
     "parcel-bundler": "^1.12.4",
-    "parcel-plugin-svelte": "^4.0.5",
-    "prettier": "^2.0.2",
-    "prettier-plugin-svelte": "^0.7.0",
-    "svelte": "^3.16.7",
-    "tailwindcss": "^1.1.4",
-    "tailwindcss-font-inter": "^1.0.7"
+    "parcel-plugin-svelte": "^4.0.6",
+    "postcss-load-config": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^2.1.2",
+    "prettier-plugin-svelte": "^1.4.0",
+    "svelte": "^3.29.0",
+    "tailwindcss": "^1.8.10",
+    "tailwindcss-font-inter": "^1.0.8"
   }
 }
